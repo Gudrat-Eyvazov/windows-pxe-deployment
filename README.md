@@ -575,4 +575,6 @@ The last command should report that reserved storage is disabled. If the disable
 
 ## License
 
-Add a license of your choice (for example MIT) as a `LICENSE` file. Windows, the Windows ADK, DISM and Sysprep are Microsoft products and are subject to Microsoft's license terms; deploying Windows images requires valid Windows licenses.
+Released under the MIT License. See the [LICENSE](LICENSE) file.
+
+Windows, the Windows ADK, DISM and Sysprep are Microsoft products and are subject to Microsoft's license terms; deploying Windows images requires valid Windows licenses.
